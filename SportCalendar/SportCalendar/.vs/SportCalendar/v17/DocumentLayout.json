@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0656E4-2463-4F01-9D32-C0659FB79B38}|SportCalendar.Repository\\SportCalendar.Repository.csproj|c:\\d disk\\fakultet\\napredni web\\mathosbootcamp_2023_grupa3\\sportcalendar\\sportcalendar\\sportcalendar.repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0656E4-2463-4F01-9D32-C0659FB79B38}|SportCalendar.Repository\\SportCalendar.Repository.csproj|solutionrelative:sportcalendar.repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\myauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\myauthorizationserverprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0656E4-2463-4F01-9D32-C0659FB79B38}|SportCalendar.Repository\\SportCalendar.Repository.csproj|c:\\d disk\\fakultet\\napredni web\\mathosbootcamp_2023_grupa3\\sportcalendar\\sportcalendar\\sportcalendar.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0656E4-2463-4F01-9D32-C0659FB79B38}|SportCalendar.Repository\\SportCalendar.Repository.csproj|solutionrelative:sportcalendar.repository\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\app_start\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\app_start\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\sportcalendar.webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B695737-3A7E-455A-840E-54C7720B97E3}|SportCalendar.WebApi\\SportCalendar.WebApi.csproj|solutionrelative:sportcalendar.webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.Repository\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "SportCalendar.Repository\\AuthRepository.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.Repository\\AuthRepository.cs",
+              "RelativeToolTip": "SportCalendar.Repository\\AuthRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:06:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "SportCalendar.Repository\\EventRepository.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.Repository\\EventRepository.cs",
+              "RelativeToolTip": "SportCalendar.Repository\\EventRepository.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:04:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\Controllers\\EventController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:59:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAEwG0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:19:33.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAEwC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:19:31.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAEwIgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:18:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\App_Start\\Startup.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\App_Start\\Startup.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\App_Start\\Startup.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\App_Start\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:17:22.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:17:15.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\Global.asax.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\Global.asax.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:17:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAuthorizationServerProvider.cs",
+              "DocumentMoniker": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\MyAuthorizationServerProvider.cs",
+              "RelativeDocumentMoniker": "SportCalendar.WebApi\\MyAuthorizationServerProvider.cs",
+              "ToolTip": "C:\\d disk\\Fakultet\\napredni web\\MathosBootcamp_2023_grupa3\\SportCalendar\\SportCalendar\\SportCalendar.WebApi\\MyAuthorizationServerProvider.cs",
+              "RelativeToolTip": "SportCalendar.WebApi\\MyAuthorizationServerProvider.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:16:58.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

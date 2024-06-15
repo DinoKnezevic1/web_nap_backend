@@ -1,0 +1,17 @@
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\SportCalendar.ModelCommon.dll.config
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\SportCalendar.ModelCommon.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\SportCalendar.ModelCommon.pdb
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\Newtonsoft.Json.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Net.Http.Formatting.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Web.Cors.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Web.Http.Cors.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Web.Http.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\Newtonsoft.Json.xml
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Net.Http.Formatting.xml
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Web.Http.xml
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\bin\Debug\System.Web.Http.Cors.xml
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\obj\Debug\SportCalendar.ModelCommon.csproj.AssemblyReference.cache
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\obj\Debug\SportCalendar.ModelCommon.csproj.CoreCompileInputs.cache
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\obj\Debug\SportCal.E1C4C2BD.Up2Date
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\obj\Debug\SportCalendar.ModelCommon.dll
+C:\d disk\Fakultet\napredni web\MathosBootcamp_2023_grupa3\SportCalendar\SportCalendar\SportCalendar.ModelCommon\obj\Debug\SportCalendar.ModelCommon.pdb
